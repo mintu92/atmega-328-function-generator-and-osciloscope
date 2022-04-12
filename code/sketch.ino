@@ -3,6 +3,7 @@
  * Developed and debuged by -MINTU NATH,APRIL 6,2020,KOLKATA,INDIA.
  * the details are provided into github...
 */
+
 #include <TimerOne.h>
 #include <LiquidCrystal.h>
 const int rs = 7, en = 6, d4 = 5, d5 = 4, d6 =3 , d7 = 2;
